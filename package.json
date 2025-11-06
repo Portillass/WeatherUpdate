@@ -1,0 +1,10 @@
+{
+  "name": "weatherupdate",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "cd cleint/weatherupdate && npm run dev",
+    "build": "cd cleint/weatherupdate && npm run build",
+    "preview": "cd cleint/weatherupdate && npm run preview"
+  }
+}
